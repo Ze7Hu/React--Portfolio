@@ -45,7 +45,7 @@
       image: restaurant,
     },
     {
-      title: "JavaScript: Password Generator",
+      title: "Password Generator",
       tech: "HTMl CSS JavaScript",
       points: [
         "Modifying starter code to create an application that enables employees to genrate random passwords. The generate password button will activate a number of prompts when clicked.",

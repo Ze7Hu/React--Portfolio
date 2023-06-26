@@ -1,7 +1,7 @@
 import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component";
 import { motion } from "framer-motion";
 import { SectionWrapper } from "../utils/hoc";
-import mypic from "../assets/mypic.jpeg";
+
 
 import 'react-vertical-timeline-component/style.min.css';
 
