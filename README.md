@@ -37,9 +37,13 @@ TailwindCSS
 Locate the deployed application link here [https://ze7hu.github.io/React--Portfolio/]
 
 
-## Screenshots
+## Screenshot
 
-<img width="873" alt="Screenshot 2023-06-26 at 14 29 15" src="https://github.com/Ze7Hu/React-Portfolio/assets/123417090/d91b74d8-e3ea-4e07-a3ae-c57099a4237d">
+
+<img width="873" alt="Screenshot 2023-06-26 at 17 08 32" src="https://github.com/Ze7Hu/React--Portfolio/assets/123417090/238b8f2f-2ee5-4266-a653-2ab1d7b49460">
+
+
+
 
 <img width="873" alt="Screenshot 2023-06-26 at 14 30 10" src="https://github.com/Ze7Hu/React-Portfolio/assets/123417090/82df7fe6-2a8b-476a-8898-fb29e5877c21">
 
